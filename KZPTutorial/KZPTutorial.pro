@@ -1,0 +1,2 @@
+DISTFILES += \
+    tutorial.qml

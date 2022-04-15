@@ -1,2 +1,0 @@
-DISTFILES += \
-    main.qml
